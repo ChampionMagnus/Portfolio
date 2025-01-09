@@ -1,2 +1,2 @@
 # Portfolio
-Certifications, resumes, cover letters, letters of recommendations etc
+Certifications, resumes, credit sheets, links, cover letters, letters of recommendations etc
